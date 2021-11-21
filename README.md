@@ -16,4 +16,4 @@ ________________________________________________________________________________
 * My aim is to become an **Infrastructure Developer**.
 <br/>
 
-**Thank you for visiting.**
+## Thank you for visiting.
