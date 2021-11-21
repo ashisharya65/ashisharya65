@@ -1,16 +1,15 @@
-### Hi there 👋
-
 <!--
 **ashisharya65/ashisharya65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there, I'm Ashish ✌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on
+
+      ● Azure
+      ● PowerShell
+      ● Endpoint Manager (Intune)
+
+My aim is to become an **Infrastructure Developer**.
+
+**Thank you for visiting.**
+
