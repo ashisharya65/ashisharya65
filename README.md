@@ -8,9 +8,10 @@ ________________________________________________________________________________
 * I am a System Administrator from **India**. 
 
 * I am currently working on 
-    1. Azure
-    2. PowerShell
-    3. Endpoint Manager (Intune) 
+  
+    - Azure
+    - PowerShell
+    - Endpoint Manager (Intune) 
 
 * My aim is to become an **Infrastructure Developer**.
 
