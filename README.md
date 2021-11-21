@@ -14,7 +14,6 @@ ________________________________________________________________________________
     - Endpoint Manager (Intune) 
 
 * My aim is to become an **Infrastructure Developer**.
-
-
-
-# Thank you for visiting.
+<br/>
+<br/>
+**Thank you for visiting.**
