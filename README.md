@@ -7,13 +7,15 @@ ________________________________________________________________________________
 
 * I am a System Administrator from **India**. 
 
-* I am currently working on 
+* I am currently learning: 
   
     - Azure
     - PowerShell
     - Endpoint Manager (Intune) 
 
 * My aim is to become an **Infrastructure Developer**.
+
+
 
 
 
