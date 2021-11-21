@@ -15,5 +15,5 @@ ________________________________________________________________________________
 
 * My aim is to become an **Infrastructure Developer**.
 <br/>
-<br/>
+
 **Thank you for visiting.**
