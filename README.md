@@ -18,4 +18,4 @@ ________________________________________________________________________________
 
 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Microsoft-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Microsoft-Intune-green)
+![](https://img.shields.io/badge/Microsoft-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Microsoft-Intune?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
