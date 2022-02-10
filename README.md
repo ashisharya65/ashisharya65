@@ -1,6 +1,6 @@
-# Hi there ✌
+## Hi there ✌
 
-## I'm **Ashish** and I am glad that you found me on Github.
+I'm **Ashish** and I am glad that you found me on Github.
 _____________________________________________________________________________________________________
 
 
