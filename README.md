@@ -9,11 +9,15 @@ ________________________________________________________________________________
 
 * I am a System Administrator from **India**. 
 
-* I am currently learning: 
-  
+🔭 I’m currently working on:
     - Azure
     - PowerShell
     - Endpoint Manager (Intune) 
+
+🌱 I am currently learning:
+    - Linux
+    - Golang
+    - Terraform 
 
 * My aim is to become an **Infrastructure Developer**.
 <br/>
