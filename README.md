@@ -32,7 +32,7 @@ You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://imgur.com/gallery/LS08Auh
 [2.2]: https://raw.githubusercontent.com/tomwechsler/tomwechsler/main/Linkedin.PNG (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
