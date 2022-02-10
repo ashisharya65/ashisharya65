@@ -31,7 +31,7 @@ ________________________________________________________________________________
 You can also find me on on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/tomwechsler/tomwechsler/main/Linkedin.PNG (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/tomwechsler/tomwechsler/main/Linkedin.PNG (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/ashish-arya-70080b39/
+[1]: https://www.linkedin.com/in/ashish-arya-70080b39/
