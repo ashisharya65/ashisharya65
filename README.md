@@ -10,11 +10,13 @@ ________________________________________________________________________________
 * I am a System Administrator from **India**. 
 
 🔭 I’m currently working on:
-    * Azure
-    * PowerShell
-    * Endpoint Manager (Intune) 
+
+    - Azure
+    - PowerShell
+    - Endpoint Manager (Intune) 
 
 🌱 I am currently learning:
+
     - Linux
     - Golang
     - Terraform 
