@@ -16,4 +16,4 @@ ________________________________________________________________________________
 * My aim is to become an **Infrastructure Developer**.
 <br/>
 
-## Thank you for visiting.
+![](https://img.shields.io/badge/Microsoft-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
