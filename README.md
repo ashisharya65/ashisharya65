@@ -21,8 +21,7 @@ I am a System Administrator from **India**.
     - Golang
     - Terraform 
 
-* My aim is to become an **Infrastructure Developer**.
-<br/>
+My aim is to become an **Infrastructure Developer**.
 
 _____________________________________________________________________________________________________
 
