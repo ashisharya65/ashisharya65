@@ -29,12 +29,6 @@ ________________________________________________________________________________
 ### Technologies & Tools 🔧
 _____________________________________________________________________________________________________
 
-![](https://img.shields.io/badge/Microsoft-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Microsoft-Intune-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Windows-PowerShell-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-
-You can also find me on on [![LinkedIn][1.2]][1].
-
-<!-- Icons -->
-[1.2]: https://raw.githubusercontent.com/tomwechsler/tomwechsler/main/Linkedin.PNG (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/ashish-arya-70080b39/
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="https://www.powershellgallery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/actions/starter-workflows/main/icons/powershell.svg" alt="PowerShell" width="40" height="40"/> </a> 
+</a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraformerr" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
