@@ -1,27 +1,11 @@
 ### Hi there ✌
 
-I'm **Ashish** and I am glad that you found me on Github.
-_____________________________________________________________________________________________________
-
-
-### BIO
-_____________________________________________________________________________________________________
-
-I am a System Administrator from **India**. 
-
-🔭 I’m currently working on:
-
-    - Azure
-    - PowerShell
-    - Endpoint Manager (Intune) 
-
-🌱 I am currently learning:
-
-    - Linux
-    - Golang
-    - Terraform 
-
-My aim is to become an **Infrastructure Developer**.
+- I'm **Ashish** and I am glad that you found me on Github.
+- I am a System Administrator from **India**. 
+- I’m currently working on <b> Azure</b>, <b> PowerShell</b>, <b> Endpoint Manager (Intune)<b>
+- I am currently learning <b> Linux</b>, <b> Golang</b>, <b> Terraform<b>
+    - 
+- My aim is to become an **Infrastructure Developer**.
 
 _____________________________________________________________________________________________________
 
