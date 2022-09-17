@@ -3,7 +3,7 @@
 - I'm **Ashish** and I am glad that you found me on Github.
 - I am a Cloud Engineer from **India**. 
 - I’m currently working on <b> Azure</b>, <b> PowerShell</b>, <b> Endpoint Manager (Intune)<b>
-- I am currently learning <b> Linux</b>, <b> Golang</b>, <b> Terraform<b>
+- I am currently learning <b> Linux</b>, <b> Golang</b>, <b> Terraform.<b>
 - My aim is to become an **Infrastructure Developer**.
 
 ### Technologies & Tools 🔧
