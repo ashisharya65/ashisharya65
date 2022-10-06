@@ -1,10 +1,10 @@
 ### Hi there ✌
 
-- I'm **Ashish** and I am glad that you found me on Github.
-- I am a SysAdmin from **India** aiming to becoming a Cloud Dev. 
+- I’m **Ashish** and I am glad that you found me on Github.
+- I’m a SysAdmin from **India** aiming to becoming a Cloud Dev. 
 - I’m currently working on <b> Azure</b>, & <b> Endpoint Manager (Intune).<b>
 - I automate things using <b> PowerShell</b>.
-- I'm currently learning <b> Linux</b>, <b> Golang</b>, <b> Terraform.<b>
+- I’m currently learning <b> Linux</b>, <b> Golang</b>, <b> Terraform.<b>
 
 ### Technologies & Tools 🔧
 
