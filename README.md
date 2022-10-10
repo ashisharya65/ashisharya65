@@ -1,6 +1,6 @@
 # Hi ✌ I am Ashish Arya
 
-- I’m a SysAdmin from **India** aiming to becoming a Cloud Dev. 
+- I’m a SysAdmin from **India** aiming to become a Cloud Dev. 
 - I’m currently working on <b> Azure</b>, & <b> Endpoint Manager (Intune).</b>
 - I automate things using <b> PowerShell</b>.
 - I’m currently learning <b> Linux</b>, <b> Golang</b>, <b> Terraform.<b>
