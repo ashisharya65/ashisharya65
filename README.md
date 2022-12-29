@@ -3,6 +3,7 @@
 - 💻 I’m an aspiring Cloud Dev from **India**. 
 - 🔭 I’m currently working on <b> Azure</b>, & <b> Endpoint Manager (Intune).</b>
 - ⚡ I do automation using <b> PowerShell</b>.
+- 👨‍💻 Programming Languages : C# & Go
 - 📫 How to reach me: LinkedIn @ashisharya65 and Twitter @ashisharya65
 
 ### Technologies & Tools 🔧
