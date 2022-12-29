@@ -1,4 +1,4 @@
-# Hi ✌ I am Ashish Arya
+# Hi ✌ I am Ashish
 
 - 💻 I’m an aspiring Cloud Dev from **India**. 
 - 🔭 I’m currently working on <b> Azure</b>, & <b> Endpoint Manager (Intune).</b>
@@ -13,7 +13,7 @@
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.powershellgallery.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/ashisharya65/images/blob/main/PowerShell.svg" alt="PowerShell" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ashisharya65/images/blob/main/Go.svg" alt="Go" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ashisharya65/images/blob/main/Go.svg" alt="Go" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer">
 <img src="https://github.com/ashisharya65/images/blob/main/Csharp.svg" alt="C#" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/bicep/bicep-github-actions.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
