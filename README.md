@@ -18,6 +18,8 @@
 <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/bicep/bicep-github-actions.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
 <img src="https://github.com/ashisharya65/images/blob/main/VSCode.svg" alt="VSCode" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
+<img src="https://github.com/ashisharya65/images/blob/main/VisualStudio.svg" alt="VisualStudio" width="40" height="40"/> </a>
 </p>
 
 _____________________________________________________________________________________________________
