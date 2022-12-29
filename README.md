@@ -1,8 +1,8 @@
 # Hi ✌ I am Ashish Arya
 
-- 💻 I’m an aspiring Cloud Dev **India**. 
+- 💻 I’m an aspiring Cloud Dev from **India**. 
 - 🔭 I’m currently working on <b> Azure</b>, & <b> Endpoint Manager (Intune).</b>
-- ⚡ I do cloud automation using <b> PowerShell</b>.
+- ⚡ I do automation using <b> PowerShell</b>.
 - 🌱 I’m currently learning <b>C#</b>, <b>Golang</b>, <b>Azure Bicep.<b>
 - 📫 How to reach me: LinkedIn @ashisharya65 and Twitter @ashisharya65
 
