@@ -11,7 +11,10 @@
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.powershellgallery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/actions/starter-workflows/main/icons/powershell.svg" alt="PowerShell" width="40" height="40"/> </a> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="go" width="40" height="40"/> </a></p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="go" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+<img src="https://learn.microsoft.com/en-us/training/achievements/bicep/bicep-github-actions.svg" alt="go" width="40" height="40"/> </a>
+</p>
 
 _____________________________________________________________________________________________________
 
