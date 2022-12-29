@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on <b> Azure</b>, & <b> Endpoint Manager (Intune).</b>
 - ⚡ I do automation using <b> PowerShell</b>.
 - 👨‍💻 Programming Languages : <b>C#</b>, <b>Go</b>
+- 🤖 IAC : <b>Azure Bicep </b>
 - 📫 How to reach me: LinkedIn @ashisharya65 and Twitter @ashisharya65
 
 ### Technologies & Tools 🔧
