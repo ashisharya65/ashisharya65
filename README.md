@@ -1,6 +1,6 @@
-# Hi ✌ I am Ashish
+# Hi there ✌ 
 
-- 💻 I’m an aspiring Cloud Dev from **India**. 
+- 💻 I’m an aspiring Cloud Dev from **India** 🇮🇳. 
 - 🔭 I’m currently working on <b> Azure</b>, & <b> Endpoint Manager (Intune).</b>
 - ⚡ I do automation using <b> PowerShell</b>.
 - 👨‍💻 I am currently learning <b>C#</b>, <b>Go</b> and <b> Azure Bicep</b>.
