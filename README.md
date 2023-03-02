@@ -1,4 +1,4 @@
-[![][(https://visitor-badge.glitch.me/badge?page_id=ashisharya65.visitor-badge)]()
+[![](https://visitor-badge.glitch.me/badge?page_id=ashisharya65.visitor-badge")]()
 
 # Hi there ✌ 
 
