@@ -1,5 +1,6 @@
 
-# Hi, I'm Ashish Arya 👋
+# Hi <a href="Hi"><img src="https://raw.githubusercontent.com/ashisharya65/ashisharya65/main/Hi.gif" align="left" height="48" width="48" ></a>, I'm Ashish Arya
+
 
 - An aspiring Cloud ☁️ Dev from India.
 - Currently working on <b>Microsoft Azure</b>, <b>Azure Virtual Desktop</b> & <b>Microsoft Intune</b>.
