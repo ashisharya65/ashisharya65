@@ -16,7 +16,8 @@ I am an aspiring Cloud Developer based in India. I thrive on harnessing the powe
 
 ### Let's Connect
   
-[![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashisharya65)
-[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashisharya65/)
+<a href="https://www.linkedin.com/in/ashisharya65/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ashisharya65-blue?style=flat&logo=linkedin"></a>
+<a href="https://twitter.com/ashisharya65" target="_blank"><img alt="X" src="https://img.shields.io/twitter/follow/ashisharya65?style=social"></a>
+<a href="mailto:ashisharya65@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashisharya65-blue?style=flat&logo=gmail"></a>
 
 Feel free to reach out if you have any questions or want to discuss cloud development strategies. I'm always excited to connect with fellow cloud enthusiasts.
