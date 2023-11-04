@@ -1,5 +1,5 @@
 
-# Hi, I'm Ashish! 👋
+# Hi, I'm Ashish Arya 👋
 
 - An aspiring Cloud ☁️ Dev from India.
 - Currently working on <b>Microsoft Azure</b>, <b>Azure Virtual Desktop</b> & <b>Microsoft Intune</b>.
