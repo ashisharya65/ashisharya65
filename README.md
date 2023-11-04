@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate Cloud Developer based in India. I thrive on harnessing the power of cloud technologies to build innovative solutions.
+I am an aspiring Cloud Developer based in India. I thrive on harnessing the power of cloud technologies to build innovative solutions.
 
 ### What I Do
 
