@@ -4,7 +4,7 @@
 
 I am an aspiring Cloud Developer based in India. I thrive on harnessing the power of cloud technologies to build innovative solutions.
 
-## What I Do 🚀
+## 🚀 What I Do 
 
 - 🌐 Aspiring Cloud Enthusiast: I'm deeply invested in the world of cloud computing, with a focus on Microsoft Azure. From architecting robust cloud infrastructures to optimizing deployments, I'm dedicated to leveraging the full potential of the cloud.
 
@@ -14,7 +14,7 @@ I am an aspiring Cloud Developer based in India. I thrive on harnessing the powe
 
 - 📚 Always Learning: Currently, I'm diving into the world of Python to expand my skill set and explore new avenues for cloud development.
 
-## Let's Connect 🤝🏻
+## 🤝🏻 Let's Connect 
   
 <a href="https://www.linkedin.com/in/ashisharya65/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ashisharya65-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/ashisharya65" target="_blank"><img alt="X" src="https://img.shields.io/twitter/follow/ashisharya65?style=social"></a>
