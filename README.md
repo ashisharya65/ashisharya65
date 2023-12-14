@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ashisharya65)
+![GitHub followers](https://img.shields.io/github/followers/ashisharya65?style=social)
 
 # Hi I'm Ashish Arya <a href="Hi"><img src="https://raw.githubusercontent.com/ashisharya65/ashisharya65/main/Hi.gif" height="30" width="30" ></a>
 
