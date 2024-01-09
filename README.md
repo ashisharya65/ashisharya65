@@ -15,7 +15,6 @@
 <br/>
 <br/>
 
-
 ### Languages and tools ⚙️
 <div align="left">   
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" height="50" /></a>  
@@ -26,6 +25,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash" height="50" /></a>      
 </div>  
 
+<br/>
 <br/>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
