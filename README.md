@@ -3,7 +3,7 @@
   <br>
 </div>
 
-<h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/ashisharya65/ashisharya65/main/Hi.gif">, I'm Ashish Arya</h1>
+<h1 align="center">Hi <img width="40" src="https://github.com/ashisharya65/images/blob/main/Hi2.gif">, I'm Ashish Arya</h1>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Support+Engineer;Cloud+Developer;DevOps+Enthusiast&center=true&size=20">
