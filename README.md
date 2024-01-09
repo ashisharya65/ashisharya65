@@ -1,8 +1,3 @@
-<div align="center">
-  <img alt="snake eating my contribution" src="https://github.com/RishabhSood/RishabhSood/blob/output/github-contribution-grid-snake.svg">
-  <br>
-</div>
-
 <h1 align="center">Hi <img width="40" src="https://github.com/ashisharya65/images/blob/main/Hi2.gif">, I'm Ashish Arya</h1>
 
 <h1 align="center">
