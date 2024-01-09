@@ -14,8 +14,10 @@
 
 <br/>
 
-### Tools & Platforms
+## Tools 
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ashisharya65/images/blob/main/VSCode.svg" alt="VSCode" height="50" /></a>  
 <div align="left">   
+<a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4" target="_blank"><img style="margin: 10px" src="https://github.com/ashisharya65/images/blob/main/PowerShell.svg" alt="PowerShell" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>  
 
