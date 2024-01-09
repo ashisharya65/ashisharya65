@@ -14,7 +14,7 @@
 
 <br/>
 
-## Languages and tools ⚙️
+### Languages and tools ⚙️
 <div align="left">   
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" height="50" /></a>  
 <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="PowerShell" height="50" /></a>
@@ -41,6 +41,10 @@
        </a>
     </div>
 </p>
+
+
+<br/>
+<br/>
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=ashisharya65&label=Visitors">
