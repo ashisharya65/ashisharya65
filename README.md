@@ -1,25 +1,46 @@
-![](https://komarev.com/ghpvc/?username=ashisharya65)
-![GitHub followers](https://img.shields.io/github/followers/ashisharya65?style=social)
+<div align="center">
+  <img alt="snake eating my contribution" src="https://github.com/RishabhSood/RishabhSood/blob/output/github-contribution-grid-snake.svg">
+  <br>
+</div>
 
-# Hi I'm Ashish Arya <a href="Hi"><img src="https://raw.githubusercontent.com/ashisharya65/ashisharya65/main/Hi.gif" height="30" width="30" ></a>
+<h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/ashisharya65/ashisharya65/main/Hi.gif">, I'm Ashish Arya</h1>
 
-## 🤵 About Me 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Support+Engineer;Cloud+Developer;DevOps+Enthusiast&center=true&size=20">
+</h1>
 
-I am an aspiring Cloud Developer based in India. I thrive on harnessing the power of cloud technologies to build innovative solutions.
+<br/>
 
-## 🚀 What I Do 
+- 🔭 Currently working on **Microsoft Azure, Azure Virtual Desktop & Microsoft Intune**.
 
-- 🌐 Cloud Enthusiast: I'm deeply invested in the world of cloud computing, with a focus on Microsoft Azure. From architecting robust cloud infrastructures to optimizing deployments, I'm dedicated to leveraging the full potential of the cloud.
+- 💡 Heavily uses **PowerShell** for scripting and orchestrating tasks in the cloud environment.
 
-- 👨‍💻 Current Tech Stack: My expertise lies in Microsoft Azure, Azure Virtual Desktop, and Microsoft Intune. I'm all about creating seamless, scalable environments in the cloud.
+- 🌱 Currently learning **Python, Terraform & Linux.**
 
-- 💡 Automating with PowerShell: I love streamlining processes and workflows through automation. PowerShell is my go-to tool for scripting and orchestrating tasks in the cloud environment.
+<br/>
 
-- 📚 Always Learning: Currently, I'm diving into the world of Python to expand my skill set and explore new avenues for cloud development.
+### Tools & Platforms
+<div align="left">   
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>  
 
-## 🤝🏻 Let's Connect 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<p align="center">
+    <div align="center"  class="icons-social" style="margin-left: 10px;">
+       <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ashisharya65/">
+          <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+       </a>
+       <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ashisharya65">
+          <img src="https://img.icons8.com/doodle/40/000000/twitter--v1.png">
+       </a>
+       <a style="margin-left: 10px;" target="_blank" href="https://github.com/ashisharya65">
+         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+       </a>
+    </div>
+</p>
 
-<a href="https://www.linkedin.com/in/ashisharya65/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ashisharya65-blue?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/ashisharya65" target="_blank"><img alt="X" src="https://img.shields.io/twitter/follow/ashisharya65?style=social"></a>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=ashisharya65&label=Visitors">
+  <img src="https://img.shields.io/github/followers/ashisharya65.svg?style=social&label=Follow&maxAge=2592000">
+</div>
 
-Feel free to reach out if you have any questions or want to discuss cloud development strategies. I'm always excited to connect with fellow cloud enthusiasts.
