@@ -27,6 +27,16 @@
 <br/>
 <br/>
 
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashisharya65&hide=javascript,html,css,php,vue,scss&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ashisharya65" />
+</span>
+<span>&nbsp;
+  <img align="center" width="424" src="https://github-readme-stats.vercel.app/api?username=ashisharya65&show_icons=true&locale=en&card_width=42&theme=algolia" alt="chandanchainani" />
+</span>
+
+<br/>
+<br/>
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
     <div align="center"  class="icons-social" style="margin-left: 10px;">
