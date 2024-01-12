@@ -10,7 +10,7 @@
 
 - 💡 Heavily uses **PowerShell** for scripting and orchestrating tasks in the cloud environment.
 
-- 🌱 Currently learning **Python, Terraform & Linux.**
+- 🌱 Currently learning **Golang, Terraform & Linux.**
 
 <br/><br/>
 
