@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="40" src="https://github.com/ashisharya65/images/blob/main/Hi2.gif">, I'm Ashish Arya</h1>
+<h1 align="center">नमस्ते (Namaste)🙏🏻, <img width="40" src="https://github.com/ashisharya65/images/blob/main/Hi2.gif">I'm Ashish Arya</h1>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Support+Engineer;Cloud+Developer;DevOps+Enthusiast&center=true&size=20">
@@ -6,24 +6,13 @@
 
 <br/>
 
+- </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> I'm a passionate Cloud Engineer from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20"/> <b>India</b>, currently living in <b>Delhi</b>,<b>India</b>.
 - 🔭 Currently working on **Microsoft Azure, Azure Virtual Desktop & Microsoft Intune**.
-
-- 💡 Heavily uses **PowerShell** for scripting and orchestrating tasks in the cloud environment.
-
-- 🌱 Currently learning **Golang, Terraform & Linux.**
-
+- 💡 Heavily uses **PowerShell** for scripting and orchestrating tasks in the cloud environment (**Azure**).
+- 🌱 Currently learning **Golang, Terraform & Linux.** 
 <br/><br/>
 
-<span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashisharya65&hide=javascript,html,css,php,vue,scss&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ashisharya65" />
-</span>
-<span>&nbsp;
-  <img align="center" width="424" src="https://github-readme-stats.vercel.app/api?username=ashisharya65&show_icons=true&locale=en&card_width=42&theme=algolia" alt="ashisharya65" />
-</span>
-
-<br/><br/><br/>
-
-### Languages and Tools ⚙️
+## Languages and Tools ⚙️
 <div align="left">   
   <a href="https://azure.microsoft.com/en-us/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="40" height="40" />
@@ -57,7 +46,16 @@
   </a>
 </div>  
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
+
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashisharya65&hide=javascript,html,css,php,vue,scss&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ashisharya65" />
+</span>
+<span>&nbsp;
+  <img align="center" width="424" src="https://github-readme-stats.vercel.app/api?username=ashisharya65&show_icons=true&locale=en&card_width=42&theme=algolia" alt="ashisharya65" />
+</span>
+
+<br/><br/><br/>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
@@ -73,7 +71,6 @@
        </a>
     </div>
 </p>
-
 
 <br/>
 <br/>
