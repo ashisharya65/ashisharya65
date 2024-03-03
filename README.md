@@ -20,29 +20,20 @@
   <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="PowerShell" width="40" height="40" />
   </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ashisharya65/images/main/Csharp.svg" alt="C#" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="bash" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="40" height="40" />
-  </a>   
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" width="40" height="40" />
-  </a>  
+  </a>    
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </div>  
 
