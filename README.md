@@ -24,6 +24,9 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/ashisharya65/images/main/Csharp.svg" alt="C#" width="40" height="40"/>
   </a>
+ <a href="https://go.dev/doc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ashisharya65/images/main/Go.svg" alt="Go" width="40" height="40"/>
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="bash" width="40" height="40"/>
   </a>
