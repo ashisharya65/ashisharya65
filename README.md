@@ -22,7 +22,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="PowerShell" width="40" height="40" />
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ashisharya65/images/main/python.gif" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/ashisharya65/images/main/python.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/ashisharya65/images/main/Csharp.svg" alt="C#" width="40" height="40"/>
