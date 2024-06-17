@@ -9,7 +9,7 @@
 - </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> I'm a passionate Cloud Engineer from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20"/> <b>India</b>, currently living in <b>Delhi</b>,<b>India</b>.
 - 🔭 Currently working on **Microsoft Azure, Azure Virtual Desktop & Microsoft Intune**.
 - 💡 Heavily uses **PowerShell** for scripting and orchestrating tasks in the cloud environment (**Azure**).
-- 🌱 Right now, I'm learning more about **Golang**, **C#** & **Linux** to improve my skills. 
+- 🌱 Right now, I'm learning more about **Python** & **Linux** to improve my skills. 
 
 <br/><br/>
 
@@ -21,11 +21,11 @@
   <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="PowerShell" width="40" height="40" />
   </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ashisharya65/images/main/python.gif" alt="Python" width="40" height="40"/>
+  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/ashisharya65/images/main/Csharp.svg" alt="C#" width="40" height="40"/>
-  </a>
- <a href="https://go.dev/doc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ashisharya65/images/main/Go.svg" alt="Go" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="bash" width="40" height="40"/>
