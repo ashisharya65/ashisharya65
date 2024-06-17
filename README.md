@@ -16,28 +16,28 @@
 ## Languages and Tools ⚙️
 <div align="left">   
   <a href="https://azure.microsoft.com/en-us/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="50" height="50" />
   </a>
   <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="PowerShell" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="PowerShell" width="50" height="50" />
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ashisharya65/images/main/python.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/ashisharya65/images/main/python.svg" alt="Python" width="50" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ashisharya65/images/main/Csharp.svg" alt="C#" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/ashisharya65/images/main/Csharp.svg" alt="C#" width="50" height="50"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="bash" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="bash" width="50" height="50"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="50" height="50" />
   </a>    
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
 </div>  
 
