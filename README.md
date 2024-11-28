@@ -6,12 +6,21 @@
 
 <br/>
 
-- </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> I'm a passionate Cloud Engineer from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20"/> <b>India</b>, currently living in <b>Delhi</b>,<b>India</b>.
-- 🔭 Currently working on **Microsoft Azure, Azure Virtual Desktop & Microsoft Intune**.
-- 💡 Heavily uses **PowerShell** for scripting and orchestrating tasks in the cloud environment (**Azure**).
-- 🌱 Right now, I'm learning more about **C#** & **Linux** to improve my skills. 
+## About Me 👨‍💻  
 
-<br/><br/>
+I’m a **Cloud Engineer** based in Delhi, <b>India </b><img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20"/>, with a strong passion for designing and implementing efficient cloud solutions.  
+
+- 🔭 **What I’m Working On**:  
+  Currently focusing on **Microsoft Azure** and **Microsoft Intune** to build robust cloud environments.  
+
+- 💡 **Core Skills**:  
+  Proficient in **PowerShell** scripting for automation and task orchestration in the Azure ecosystem.  
+
+- 🌱 **What I’m Learning**:  
+  Exploring **C#** and **Linux** to expand my technical expertise and stay ahead in the cloud engineering domain.  
+
+
+<br/>
 
 ## Languages and Tools ⚙️
 <div align="left">   
