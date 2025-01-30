@@ -1,34 +1,49 @@
-<h1 align="center">नमस्ते (Namaste)🙏🏻, <img width="40" src="https://github.com/ashisharya65/images/blob/main/Hi2.gif">I'm Ashish Arya</h1>
+<h1 align="center">Hi 👋, I'm Ashish Arya</h1>
+<h3 align="center"> Platform Engineer from India</h3>
+<br>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Support+Engineer;Cloud+Developer;DevOps+Enthusiast&center=true&size=20">
-</h1>
+<!-- GIF -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-<br/>
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ashisharya65&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-## About Me 👨‍💻  
+### 🚀 About Me  
 
-I’m a **Cloud Engineer** based in Delhi, <b>India </b><img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20"/>, with a strong passion for designing and implementing efficient cloud solutions.  
+- 🔭 Working with **Microsoft Azure & Intune**.
+- 💡 Skilled in **PowerShell** automation for Azure.
+- 🌱 Learning **Python** & **Linux**.
+- 👯 Seeking Cloud & DevOps collaborations.
+- 🎓 Certified: **AZ-900**, **C# Developer (Microsoft & FreecodeCamp)**.
+- 🚀 10+ years in IT Infra | Azure | Intune | PowerShell Automation.
+- 🤝 Open to networking & learning opportunities.
 
-- 🔭 **What I’m Working On**:  
-  Currently focusing on **Microsoft Azure** and **Microsoft Intune** to build robust cloud environments.  
+<br>
 
-- 💡 **Core Skills**:  
-  Proficient in **PowerShell** scripting for automation and task orchestration in the Azure ecosystem.  
+---
 
-- 🌱 **What I’m Learning**:  
-  Exploring **C#** and **Linux** to expand my technical expertise and stay ahead in the cloud engineering domain.  
+### 📫 Connect with Me  
 
+<p align="left">
+  <a href="https://twitter.com/ashisharya65" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/ashisharya65" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+</p>
 
-<br/>
+---
+### 🛠️ Languages and Tools  
 
-## Languages and Tools ⚙️
 <div align="left">   
   <a href="https://azure.microsoft.com/en-us/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="45" height="45" />
+    <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="45" height="45"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="PowerShell" width="45" height="45" />
+    <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="PowerShell" width="45" height="45"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/ashisharya65/images/main/python.svg" alt="Python" width="45" height="45"/>
@@ -37,47 +52,30 @@ I’m a **Cloud Engineer** based in Delhi, <b>India </b><img src="https://upload
     <img src="https://raw.githubusercontent.com/ashisharya65/images/main/Csharp.svg" alt="C#" width="45" height="45"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="bash" width="45" height="45"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash" width="45" height="45"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="45" height="45" />
+    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="45" height="45"/>
   </a>    
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
   </a>
 </div>  
 
-<br/><br/><br/>
+---
 
-<span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashisharya65&hide=javascript,html,css,php,vue,scss&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ashisharya65" />
-</span>
-<span>&nbsp;
-  <img align="center" width="424" src="https://github-readme-stats.vercel.app/api?username=ashisharya65&show_icons=true&locale=en&card_width=42&theme=algolia" alt="ashisharya65" />
-</span>
+### 📊 GitHub Stats  
 
-<br/><br/><br/>
-
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<p align="center">
-    <div align="center"  class="icons-social" style="margin-left: 10px;">
-       <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ashisharya65">
-          <img src="https://img.icons8.com/doodle/40/000000/twitter--v1.png">
-       </a>
-       <a style="margin-left: 10px;" target="_blank" href="https://github.com/ashisharya65">
-         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-       </a>
-    </div>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashisharya65&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
-<br/>
-<br/>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashisharya65&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=ashisharya65&label=Visitors">
-  <img src="https://img.shields.io/github/followers/ashisharya65.svg?style=social&label=Follow&maxAge=2592000">
-</div>
+<br>
 
