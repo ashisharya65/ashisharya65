@@ -12,8 +12,8 @@
 
 ### 🚀 About Me  
 
-- 🚀 **10+ years in IT Infra | Azure | Intune | PowerShell Automation**  
-- 🔭 Working with **Microsoft Azure & Intune**  
+- 🚀 **10+ years in IT Infra | Azure | Intune | PowerShell**  
+- 🔭 Working with **Azure & Intune**  
 - 🎓 Certified: **AZ-900**, **C# Developer (Microsoft & FreeCodeCamp)**  
 - 🌱 Learning **Python** & **Linux**  
 - 👯 Seeking **Cloud & DevOps collaborations**  
