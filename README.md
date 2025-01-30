@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Arya</h1>
-<h3 align="center"> Platform Engineer from India</h3>
+<h3 align="center"> Cloud Platform Engineer from India</h3>
 <br>
 
 <!-- GIF -->
@@ -12,14 +12,21 @@
 
 ### 🚀 About Me  
 
-- 🔭 Working with **Microsoft Azure & Intune**.
-- 🚀 10+ years in IT Infra | Azure | Intune | PowerShell Automation.
-- 🌱 Learning **Python** & **Linux**.
-- 👯 Seeking Cloud & DevOps collaborations.
-- 🎓 Certified: **AZ-900**, **C# Developer (Microsoft & FreecodeCamp)**.
-- 🤝 Open to networking & learning opportunities.
+🚀 **10+ years in IT Infra | Azure | Intune | PowerShell Automation**  
+🔭 Working with **Microsoft Azure & Intune**  
+🎓 Certified: **AZ-900**, **C# Developer (Microsoft & FreeCodeCamp)**  
+🌱 Learning **Python** & **Linux**  
+👯 Seeking **Cloud & DevOps collaborations**  
+🤝 Open to **networking & learning opportunities**  
 
-<br>
+<br><br>
+
+---
+
+### 📜 Certifications  
+
+- **[AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/users/ashisharya65/credentials/545b2a0708482141?ref=https%3A%2F%2Fwww.linkedin.com%2F)**  
+- **[C# Developer Certification (Microsoft & FreeCodeCamp)](https://www.freecodecamp.org/certification/ashisharya65/foundational-c-sharp-with-microsoft)**  
 
 ---
 
