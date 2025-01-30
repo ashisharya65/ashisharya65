@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Arya</h1>
-<h3 align="center"> Cloud Platform Engineer from India</h3>
+<h3 align="center"> Platform Engineer from India</h3>
 <br>
 
 <!-- GIF -->
